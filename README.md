@@ -5,7 +5,6 @@ This project analyzes inventory stock levels using Python, Pandas, Matplotlib, a
 The program reads inventory data from an Excel file, identifies low-stock products, 
 generates a stock visualization chart, and creates a professional PDF inventory report automatically.
 
----
 
 ## Features
 
@@ -16,7 +15,6 @@ generates a stock visualization chart, and creates a professional PDF inventory 
 - Create automated PDF reports
 - Simple and business-oriented workflow
 
----
 
 ## Technologies Used
 
@@ -26,7 +24,9 @@ generates a stock visualization chart, and creates a professional PDF inventory 
 - FPDF
 - Excel (.xlsx)
 
----
 
 ## Author
 JG Automation & Data
+
+## Preview
+![Inventory](inventory_chart.png)
