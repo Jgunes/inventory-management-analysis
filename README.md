@@ -25,8 +25,9 @@ generates a stock visualization chart, and creates a professional PDF inventory 
 - Excel (.xlsx)
 
 
-## Author
-JG Automation & Data
-
 ## Preview
 ![Inventory](inventory_chart.png)
+
+# Author
+
+JG Automation & Data
