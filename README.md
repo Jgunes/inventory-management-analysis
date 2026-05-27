@@ -26,7 +26,7 @@ generates a stock visualization chart, and creates a professional PDF inventory 
 
 
 ## Preview
-![Inventory](inventory_chart.png)
+![Inventory](inventory_neon_chart.png)
 
 # Author
 
